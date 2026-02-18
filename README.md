@@ -14,7 +14,7 @@ An AI-powered application that enables users to interact with PDF documents via 
 - **SIn-Memory Vector Store**: For caching embeddings and optimizing document query retrieval.
 
 #### AI & NLP:
-- **OpenAI GPT-3.5 Turbo API**:  For processing user queries and generating natural language responses.
+- **OpenAI GPT- 5.0 Turbo API**:  For processing user queries and generating natural language responses.
 - **Langchain**: For managing document loading, splitting, and retrieval processes.
 
 #### Other Tools:
