@@ -1,4 +1,4 @@
-# Next AI: A Full-Stack Web-Based Q&A AI Agent for PDF Document Queries
+# Agent AI: A Full-Stack Web-Based Q&A AI Agent for PDF Document Queries
 
 An AI-powered application that enables users to interact with PDF documents via a conversational UI. This project is designed to simplify document analysis, allowing users to query PDF content in real-time, leveraging advanced natural language processing and retrieval techniques.
 
